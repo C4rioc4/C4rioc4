@@ -33,11 +33,6 @@ target="_blank">
 href='https://www.instagram.com/itu2017v/'
 target="_blank">
 <img src='https://skillicons.dev/icons?i=instagram'
- <a
-href='https://github.com/C4rioc4/'
-target="_blank">
-<img src='https://skillicons.dev/icons?i=github'
-  </a>
   </a>
 </p>
  
