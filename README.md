@@ -1,4 +1,4 @@
-### Welcome, I'm PedroDev 👋
+### Welcome, I'm C4rioc4 👋
 
 
 - 👨‍💻 I'm C4rioc4
@@ -9,7 +9,7 @@
 <h4 align="center">Linguagens / Tecnologias</h4>
 <p align="center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=python,mysql'/>
+    <img src='https://skillicons.dev/icons?i=java,python,mysql'/>
   </a>
   
 <h5 align="center">Programas</h4>
